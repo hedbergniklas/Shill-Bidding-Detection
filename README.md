@@ -1,4 +1,4 @@
-How do we detect shill bidders in online auctions? <br>
+How do we detect shill bidders in online auctions? 
 
 Shill bidding is a fraudulent practice in online auctions where individuals knowingly or unknowingly collude with sellers to artificially inflate the price of an item. This is achieved through behaviors such as placing low initial bids to lure genuine participants, repeatedly increasing their own bids despite holding the highest bid, and abstaining from bidding at the auction's close to avoid winning.
 
